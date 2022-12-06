@@ -1,0 +1,27 @@
+baseURL = '/'
+languageCode = 'en-uk'
+title = 'Data Science Tidbits'
+theme = 'hello-friend'
+paginate = 5
+
+defaultTheme = 'dark'
+
+showReadingTime = true
+
+[languages]
+    [languages.en]
+    title = "Data Science Tidbits"
+    subtitle = "Random snippets from a life with data"
+    menuMore = "Show more"
+    writtenBy = "Written by Philip R. Jarnhus"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    
+    [languages.en.params.logo]
+    logoText = "I remember back when..."
+    logoHomeLink = "/"
