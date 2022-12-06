@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://pjarnhus.github.io'
 languageCode = 'en-uk'
 title = 'Data Science Tidbits'
 theme = 'hello-friend'
